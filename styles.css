@@ -1,0 +1,12 @@
+body{
+    font-family: "Comic Sans MS"
+}
+#headerreal{
+background-image: url("https://media.istockphoto.com/vectors/you-win-message-in-pop-art-style-vector-id913000444");
+background-size: contain;
+color: maroon;
+font-style: oblique;
+}
+#list{
+    background-image: url("https://serfob.s3.amazonaws.com/media/yellow-seamless-dark-dot-backgroundaa1-e2d2-447e-a43f-408809355c63.png");
+}
